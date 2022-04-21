@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2022-04-21 RewaldeBot", "2022-04-21 RewaldeBot\2022-04-21 RewaldeBot.pyproj", "{958635E4-DFC7-45AB-A578-2EC32E9E27BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958635E4-DFC7-45AB-A578-2EC32E9E27BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958635E4-DFC7-45AB-A578-2EC32E9E27BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {408544FE-D4F7-46DB-9863-1C1B6EB57514}
+	EndGlobalSection
+EndGlobal
